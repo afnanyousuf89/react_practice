@@ -1,0 +1,22 @@
+.main-menu {
+	background-color: rgb(63, 211, 162);
+	width: 100%;
+}
+
+.main-menu ul {
+	display: flex;
+	justify-content: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+
+.main-menu ul li a {
+	text-decoration: none;
+	padding: 10px;
+	color: #fff;
+}
+.main-menu ul li a:hover {
+	
+	color: yellow;
+}
